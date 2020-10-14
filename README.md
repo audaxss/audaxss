@@ -1,5 +1,5 @@
 # Hi Github, I'm Justin - aka [Audaxss](https://facebook.com/audaxss) 👋
-I'm a UX/UI Designer and Front-end Developer at [Unirises](https://unirises.com). Graduated from Gardner College Diliman and took the course of Information and Communcation Technology and won 3 times in Web Design contest in my high school days at Sauyo High School. I live in Quezon City, Philippines. 🙌 I'm Happy from where I am now and more be happier soon. 💙
+I'm a UX/UI Designer and Front-end Developer at [Unirises](https://unirises.com). Graduated from Gardner College Diliman and took the course of Information and Communcation Technology and won 3 times in Web Design contest in my high school days at Sauyo High School. I live in Quezon City, Philippines. 🙌 I'm happy for where I am now and be more happier soon. 💙
 
 ### Languages and Tools: 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
